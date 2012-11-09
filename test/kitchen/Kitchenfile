@@ -1,0 +1,3 @@
+cookbook "resource-tester" do
+  runtimes []
+end
